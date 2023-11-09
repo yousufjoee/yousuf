@@ -1,0 +1,90 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: aliceblue;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 10%;   
+    border-bottom: solid;
+}
+body{
+    background-image: url(../img/sunset-8113697_1280.webp);
+    background-size: cover;    
+}
+#no{
+    width: 100%;   
+}
+a{
+    text-decoration: none;
+}
+h2{
+    margin-right: 3.5%;
+    font-size: xx-large;
+}
+span{
+    display: flexbox;
+    font-size: x-large;
+    padding-right: 10px;
+    color: black;
+    position: relative;
+}
+.videos{
+    background-color: white;
+    background-attachment: scroll;
+    max-height: 200px;
+    border: 2px solid black;
+    line-height: 110px;
+    display: inline-flexbox;
+    overflow: scroll;
+    
+
+}
+div.video{
+
+    height: 150px;
+    direction: rtl;
+    margin-right: 4%;
+    margin-left: 20%;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    flex: 0 0 auto;
+    background-color:white;
+    
+}
+hr{
+    width: 80%;
+    margin-left: 15%;
+    margin-right:5%;
+}
+#face{
+    height: 50px;
+    border-radius: 80%;
+    margin-top: 151px;
+    margin-left: 282px;
+    display: inline;
+}
+#insta{
+    height: 50px;
+    border-radius: 80%;
+    margin-left: 230px;
+    align-items:center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
